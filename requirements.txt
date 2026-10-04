@@ -1,0 +1,14 @@
+# Requirements para Proyecto de Minería de Datos
+# Detección de Fraude Bancario
+
+# Versión completa (requiere sklearn)
+# pandas>=1.3.0
+# numpy>=1.21.0
+# scikit-learn>=1.0.0
+# matplotlib>=3.4.0
+# python-docx>=0.8.11
+
+# Versión de demostración (compatible con entornos básicos)
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
