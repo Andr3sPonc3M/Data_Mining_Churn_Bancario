@@ -32,9 +32,9 @@ proyecto-mineria-datos/
 ## 👥 Autores
 
 Estudiantes: 				
-Ponce Maldonado Andrés Rafael,
-Pineda Songor Manuel Alexander,
-Quiñonez Quintero Tiffany Fernanda.
+- Ponce Maldonado Andrés Rafael
+- Pineda Songor Manuel Alexander
+- Quiñonez Quintero Tiffany Fernanda
 
 Docente: 				
 Ing. Lenin Patricio Ochoa Carrión, Mg.
